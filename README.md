@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafasoares1&label=Profile%20views&color=0e75b6&style=flat" alt="rafasoares1" /> </p>
 
+  
+  
 - 🔭 I’m currently working on **school projects at 42 Porto**
 - 🌱 I’m currently learning **C**
 - 🧑‍🎓 I’m currently studying at **42 Porto**
