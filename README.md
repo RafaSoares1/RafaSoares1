@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **school projects at 42 Porto**
   
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C, C#, SQL, HTML, CSS, Python, JAVASCRIPT**
   
 - 🧑‍🎓 I’m currently studying at **42 Porto**
   
