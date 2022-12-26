@@ -16,8 +16,6 @@
 - 💬 Ask me about **about anything you want, I will do my best to be able to help you :D**
   
 - 📫 How to reach me **ersv12@gmail.com**
-  
-- ⚡ Fun fact **I like sports, video-games and I am a hard working guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
