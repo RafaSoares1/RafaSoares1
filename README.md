@@ -6,11 +6,11 @@
   
 - 🔭 I’m currently working on **school projects at 42 Porto**
   
-- 🌱 I’m currently learning **C, C#, SQL, HTML, CSS, Python, JAVASCRIPT**
+- 🌱 I’m currently learning **C, C++, SQL, HTML, CSS, Python, JAVASCRIPT**
   
 - 🧑‍🎓 I’m currently studying at **42 Porto**
   
-- 🤝 I’m looking for help with **C**
+- 🤝 I’m looking for help with **C & C++**
   
 - 💬 Ask me about **about anything you want, I will do my best to be able to help you :D**
   
