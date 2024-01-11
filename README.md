@@ -1,4 +1,3 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://github.com/RafaSoares1/RafaSoares1/assets/103336451/083de44b-1207-433a-a325-d1e10ef3a12c)
 
 <h1 align="center">Hi 👋, I'm Rafael Soares</h1>
 <h3 align="center">A passionate Programming Student from Portugal </h3>
