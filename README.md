@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafasoares1&show_icons=true&locale=en" alt="rafasoares1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafasoares1&" alt="rafasoares1" /></p>
-
-CVb3d2023
