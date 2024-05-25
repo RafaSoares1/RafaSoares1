@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I’m currently studying at **42 Porto**
   
-- 🤝 I’m looking for help with **C & C++**
+- 🤝 I’m looking for help with **C# & C++**
   
 - 💬 Ask me about **about anything you want, I will do my best to be able to help you :D**
   
