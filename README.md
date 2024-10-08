@@ -4,19 +4,11 @@
 <img align="right" alt="emsoares" width="400" src="https://badge.mediaplus.ma/colorfulwaves/emsoares?1337Badge=off&UM6P=off">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafasoares1&label=Profile%20views&color=0e75b6&style=flat" alt="rafasoares1" /> </p>
   
-- 🔭 I’m currently working on **school projects at 42 Porto**
-  
-- 🌱 I’m currently learning **C, C++, C#, SQL, HTML, CSS, Python, Java**
+- 🌱 I’m currently learning **C, C++, C#, MQTT, CSS, Python, Java**
 
 - 🧑‍🎓 I’m currently studying at **42 Porto**
   
-- 🤝 I’m looking for help with **C# & C++**
-  
-- 💬 Ask me about **about anything you want, I will do my best to be able to help you :D**
-  
-- 📫 How to reach me **ersv12@gmail.com**
-
-- 👨‍💻 Professional github profile: [Rafael Coreflux](https://github.com/RafaelVieira-Coreflux)
+- 🔭 I’m currently working at **Coreflux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
