@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 I’m currently studying at **42 Porto**
   
-- 🔭 I’m a Junior Back-End developer at [AiSquare](https://www.aisquare.ai/)<br>
+- 🔭 I’m a Back-End developer at [AiSquare](https://www.aisquare.ai/)<br>
 
 - 🌐 Coreflux is currently one of the leading MQTT brokers. For more information, visit our [website](coreflux.org)<br>
 
