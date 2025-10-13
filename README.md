@@ -10,8 +10,6 @@
   
 - 🔭 I’m a Back-End developer at [AiSquare](https://www.aisquare.ai/)<br>
 
-- 🌐 Coreflux is currently one of the leading MQTT brokers. For more information, visit our [website](coreflux.org)<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-soares-71b1b815a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-soares-71b1b815a" height="30" width="40" /></a>
